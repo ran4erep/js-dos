@@ -57,7 +57,7 @@ const translations: { [lang: string]: { [key: string]: string } } = {
         please_wait: "Пожалуйста подождите",
         making_bundle: "Создаем бандл",
         size: "Размер",
-        room: "Команта",
+        room: "Комната",
         server: "Сервер",
         load_by_url: "Загрузить по ссылке",
         enter_url: "Введите ссылку",
